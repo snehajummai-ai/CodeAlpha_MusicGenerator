@@ -64,4 +64,4 @@ CodeAlpha_MusicGenerator/
 ---
 
 ## 👩‍💻 Author
-Preeti
+Sneha
