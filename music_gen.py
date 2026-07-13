@@ -9,7 +9,12 @@ melody = stream.Stream()
 
 # List of musical notes
 # These notes will form the melody
-notes = ['C4', 'E4', 'G4', 'A4', 'G4', 'E4', 'C4']
+notes = [
+    'C4', 'C4', 'D4', 'C4', 'F4', 'E4',
+    'C4', 'C4', 'D4', 'C4', 'G4', 'F4',
+    'C4', 'C4', 'C5', 'A4', 'F4', 'E4', 'D4',
+    'A#4', 'A#4', 'A4', 'F4', 'G4', 'F4'
+]
 
 
 # Loop through each note
